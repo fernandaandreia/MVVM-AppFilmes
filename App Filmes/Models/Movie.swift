@@ -11,6 +11,7 @@ struct Filmes {
     let release_date:String
     let poster_path:String
     let overview:String
+    let id:Int
 
 
 }
