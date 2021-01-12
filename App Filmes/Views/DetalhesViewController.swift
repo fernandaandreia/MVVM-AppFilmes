@@ -56,7 +56,6 @@ class DetalhesViewController: UIViewController {
         
     }
     
-    //fim do projeto
-    //novoMVVM
+
    
 }
