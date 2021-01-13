@@ -24,8 +24,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         colecaoFilmes.dataSource = self
         colecaoFilmes.delegate = self
         recuperaImages()
-//        FilmeTrendingAPI().requisicaoAPITrending()
-//        FilmesDetalhesAPI().requisicaoAPIDetalhes()
         
     }
 
